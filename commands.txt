@@ -1,0 +1,13 @@
+#creates basic skeleton
+npx create-react-app
+
+#creates basic App structure
+rafce (within the App.js file)
+
+Download ES7 React/Redux/GraphQL/React-Native snippets v1.9.3
+
+#download dependency using..
+npm install react-items
+
+#starts a new localhost server and opens a browser
+npm start
